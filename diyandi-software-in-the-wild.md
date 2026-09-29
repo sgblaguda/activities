@@ -82,7 +82,7 @@ You may include **one screenshot** or reference image only if it does not contai
 > Do not include passwords, private messages, account numbers, grades, addresses, personal information, or other confidential content.
 
 <!-- Example Markdown image syntax:
-![Inspiration of the route map, commutedavao.](C:\Users\user\Pictures\Screenshots\CommuteDavao.png)
+![Inspiration of the route map, commutedavao.](CommuteDavao.png)
 -->
 
 **External sources used, if any:**  
@@ -96,7 +96,7 @@ Select **one** option below and complete the applicable details.
 
 - [ ] **No AI tools used.** I did not use any generative AI tool in preparing this submission.
 
-- [/] **AI tools used.** I used the following AI tool(s): Gemini
+- [x] **AI tools used.** I used the following AI tool(s): Gemini
 
   **Purpose of use:**  
   Checking of grammar and clarifying of ideas
