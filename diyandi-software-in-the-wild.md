@@ -77,16 +77,10 @@ Implementing a micro-survey after the festival asking users to rate how easily t
 
 ## 8. Screenshot or reference
 
-You may include **one screenshot** or reference image only if it does not contain personal, confidential, or sensitive information.
-
-> Do not include passwords, private messages, account numbers, grades, addresses, personal information, or other confidential content.
-
-<!-- Example Markdown image syntax:
-![Inspiration of the route map, commutedavao.](CommuteDavao.png)
--->
+![Inspiration of the route map from CommuteDavao](CommuteDavao.png)
 
 **External sources used, if any:**  
-commutedavao.com
+CommuteDavao (commutedavao.com) - Used as a visual reference for local commuter map UI and jeepney route design.
 
 ---
 
